@@ -8,7 +8,7 @@ const Hero = () => {
     <div>
       <div
         className="my-7 sm:my-0 max-w-[1200px] h-[80vh] mx-auto flex flex-col-reverse sm:flex-row 
-        justify-center align-center"
+        justify-center content-center"
       >
         <div className="my-auto flex flex-col mx-auto">
           <p className="md:text-5xl sm:text-4xl text-xl font-bold text-gray-500">
@@ -34,14 +34,14 @@ const Hero = () => {
               With a 3+ years experience
             </p>
           </div>
-          <div className="text-5xl flex justify-start gap-16 my-7 text-purple-500">
+          <div className="text-5xl flex justify-start gap-16 my-7 text-cyan-400">
             <AiFillLinkedin />
             <AiFillGithub />
           </div>
           <div class="relative inline-flex group my-3">
             <div
               class="absolute w-[200px] h-[60px] transition-all duration-1000 opacity-70 -inset-px bg-gradient-to-r 
-              from-[#44BCFF] via-[#FF44EC] to-[#FF675E] rounded-xl blur-lg group-hover:opacity-100
+              from-[#44BCFF] via-[#0c82b4] to-[#0dc0c0] rounded-xl blur-lg group-hover:opacity-100
               group-hover:-inset-1 group-hover:duration-200"
             ></div>
             <a

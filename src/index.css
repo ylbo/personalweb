@@ -11,11 +11,13 @@ body {
 
 span,
 .primary-color {
-  background-image: linear-gradient(to right, #dd32f3, #ce90cb);
+  /* background-image: linear-gradient(to right, #dd32f3, #ce90cb); */
+  background-image: linear-gradient(to right, #0c82b4, #A6D3E6);
   -webkit-background-clip: text;
   color: transparent;
 }
 
 .bg-primary-color {
-  background-image: linear-gradient(to right, #6b2b72, #a5079d);
+  /* background-image: linear-gradient(to right, #6b2b72, #a5079d); */
+    background-image: linear-gradient(to right, #0c82b4, #A6D3E6);
 }
