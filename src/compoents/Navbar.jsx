@@ -12,11 +12,11 @@ const Navbar = () => {
     <div className="z-10 text-gray-500 flex justify-between items-center max-w-[1240px] mx-auto h-24 px-4 text-l">
       <h1 className="text-3xl font-bold primary-color ml-4">Tim Yang</h1>
       <ul className="hidden sm:flex">
-        <li className="p-2">Home</li>
-        <li className="p-2">Company</li>
-        <li className="p-2">Resource</li>
-        <li className="p-2">About</li>
-        <li className="p-2">Contact</li>
+        <li className="p-5">Home</li>
+        <li className="p-5">Company</li>
+        <li className="p-5">Resource</li>
+        <li className="p-5">About</li>
+        <li className="p-5">Contact</li>
       </ul>
 
       {/* className Mobile fisrt */}
@@ -33,11 +33,11 @@ const Navbar = () => {
       >
         <h1 className="text-3xl primary-color m-4">Tim Yangs</h1>
         <ul className="p-8 text-2xl">
-          <li className="p-2">Home</li>
-          <li className="p-2">Company</li>
-          <li className="p-2">Resource</li>
-          <li className="p-2">About</li>
-          <li className="p-2">Contact</li>
+          <li className="p-5">Home</li>
+          <li className="p-5">Company</li>
+          <li className="p-5">Resource</li>
+          <li className="p-5">About</li>
+          <li className="p-5">Contact</li>
         </ul>
       </div>
     </div>
